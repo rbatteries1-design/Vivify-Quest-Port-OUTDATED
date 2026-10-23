@@ -1,4 +1,7 @@
 
+THIS REPOSITORY IS OUTDATED AND IS MOST LIKELY NOT GONNA BE UPDATED, IF SOMEONE WISHES TO CONTINUE THIS PROJECT (collaborate)
+PLEASE DM ME @5ymu <--- Discord
+
 # Vivify Quest Port
 ------
 ## Instructions for building the project yourself
